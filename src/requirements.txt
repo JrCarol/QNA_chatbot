@@ -1,0 +1,10 @@
+requests
+beautifulsoup4
+nltk
+scikit-learn
+transformers
+torch
+transformers[torch]
+sentence-transformers
+googletrans
+langdetect

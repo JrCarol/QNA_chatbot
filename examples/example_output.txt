@@ -1,0 +1,11 @@
+Welcome to the URL-based Q&A chatbot! Ask me anything about the content at the URL provided.
+Type 'exit' to end the conversation.
+
+You: What is this article about?
+Chatbot: This article provides an overview of [insert main topic].
+
+You: Can you tell me about [specific detail]?
+Chatbot: [Relevant answer from the text based on similarity]
+
+You: exit
+Chatbot: Thank you for chatting. Goodbye!
