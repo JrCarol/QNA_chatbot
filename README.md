@@ -66,16 +66,12 @@ A Python-based chatbot that can answer questions about content from any given UR
    - Type 'exit' to end the conversation
 
 ## Example Interaction
+
+Include URL
 ![Example Chat](examples/Example_01.png)
+
+Ask Questions
 ![Example Chat](examples/Example_02.png)
-
-## Contributing
-
-Feel free to submit issues, fork the repository, and create pull requests for any improvements.
-
-## License
-
-This project is licensed under the MIT License - see the LICENSE file for details.
 
 ## Acknowledgments
 
